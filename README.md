@@ -2,13 +2,14 @@
 
 Prebuilt `lepton.iso` for [Lepton OS](https://github.com/danieljaouen/lepton),
 a Unix-like operating system for ARM64 (aarch64) whose userland is written in
-Elixir. Website: <https://trylepton.app/>
+Elixir. Website: <https://trylepton.app/> · Documentation:
+<https://trylepton.app/docs/>
 
 | | |
 |---|---|
 | File | `lepton.iso` (93 MiB, UEFI, aarch64, hybrid CD/disk image) |
-| SHA-256 | `c2f0db28b56e7daf65625a02ef0f45be6a2a8c26ffd7824b5f704ca19146a91b` |
-| Built from | danieljaouen/lepton @ `24257ad` (Linux 6.18.63, Erlang/OTP 29.1.2, Elixir 1.20.5) |
+| SHA-256 | `095e5abcc143bded336e6824d5a2975383d6edc5b7f2cdeaff5f9aea919f4a47` |
+| Built from | danieljaouen/lepton @ `8119a24` (Linux 6.18.63, Erlang/OTP 29.1.2, Elixir 1.20.5) |
 
 The ISO is attached to this repository's
 [Releases](https://github.com/danieljaouen/lepton.iso/releases); every release is
