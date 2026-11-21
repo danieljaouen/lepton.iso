@@ -8,8 +8,8 @@ Elixir. Website: <https://trylepton.app/> · Documentation:
 | | |
 |---|---|
 | File | `lepton.iso` (131.0 MB, UEFI, aarch64, hybrid CD/disk image) |
-| SHA-256 | `358284e0667fad839a8eb76b0ee22d40cbcbf5d09516e6fcdfd5ca8268e02dc3` |
-| Built from | danieljaouen/lepton @ `5423c74` (Linux 6.18.64, Erlang/OTP 29.1.2, Elixir 1.20.5) |
+| SHA-256 | `edfce7781555a54235bf19f003d55d29704e9d6c1b6020c93cead8c45c748dc6` |
+| Built from | danieljaouen/lepton @ `a051c9b` (Linux 6.18.64, Erlang/OTP 29.1.2, Elixir 1.20.5) |
 
 The ISO is attached to this repository's
 [Releases](https://github.com/danieljaouen/lepton.iso/releases); every release is
